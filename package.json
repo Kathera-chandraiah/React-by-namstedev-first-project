@@ -13,8 +13,14 @@
   "license": "ISC",
   "author": "chandu kathera",
   "type": "module",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
