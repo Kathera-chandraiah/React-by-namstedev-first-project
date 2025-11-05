@@ -1,0 +1,20 @@
+{
+  "name": "react-app-using-parcel",
+  "version": "1.0.0",
+  "description": "This is project is developed by chandu kathera",
+  "homepage": "https://github.com/Kathera-chandraiah/React-by-namstedev-first-project#readme",
+  "bugs": {
+    "url": "https://github.com/Kathera-chandraiah/React-by-namstedev-first-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kathera-chandraiah/React-by-namstedev-first-project.git"
+  },
+  "license": "ISC",
+  "author": "chandu kathera",
+  "type": "module",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
